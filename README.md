@@ -1,1 +1,3 @@
-# CPP
+Open sourcing my C++ Assignments so that it'd be easier for me and other folks to have a look at the codes I compiled and saves a lot of time and effort of taking photographs and copying them later..........
+
+Just don't forget to buy me a beer/coffe/tea/grilled chicken/burger in case this proved helpful to you.
