@@ -1,0 +1,11 @@
+Inheritance allows software developers to derive a new class from the existing class. The derived class inherits features of the base class (existing class).
+
+Suppose, both base class and derived class have a member function with same name and arguments (number and type of arguments).
+
+If you create an object of the derived class and call the member function which exists in both classes (base and derived), the member function of the derived class is invoked and the function of the base class is ignored.
+
+This feature in C++ is known as function overriding.
+
+*Also draw this diagram*
+
+https://www.programiz.com/sites/tutorial2program/files/function-overriding-C%2B%2B.jpg
